@@ -1,6 +1,23 @@
 # AI_SEC
-This is list of resources around AI Ethics and CyberSecurity.
-I hope you find it useful :-)
+This is repo intended to help you to deal with AI Ethics and CyberSecurity.
+I hope you find it useful.
+First of all, please have a look at a ML High Level Design:
+
+Here you can see the first step: Addressing a business goal with a Machine Learning Model. Gather the requirements and design it to match the requirements.
+Once the ML Model is designed, the next step must be designing and building the system and infrastructure that will support the model.
+Once the infrastructure is in place, you can start building or acquiring datasets, preprocessing and processing them.
+After you have prepared your datasets, it's time to train your model, fine tune it and evaluate its performance.
+When you ML Model is matching the requirements, you can deploy it and start to monitor it.
+There should be a continous feedback between your datasets and your models for continous improvement.
+External knowledge bases and feature stores can provide extra performance.
+![AI_Diag](https://user-images.githubusercontent.com/33955667/229309002-48361569-dfea-4dec-bc56-932e1cb8a0e2.jpg)
+
+You must analise it from the AI Adversarial, CyberSecurity, InfoSec and Data Security perspective.
+
+
+
+Links
+
 
 CyberSecurity
 =============
@@ -33,12 +50,10 @@ AI General Training
 =============
 Andrew Ng (Founder of Google DeepBrain) ML and DL Training 
 https://www.deeplearning.ai/
-
-
-ML High Level Design
-=============
-![AI_Diag](https://user-images.githubusercontent.com/33955667/229309002-48361569-dfea-4dec-bc56-932e1cb8a0e2.jpg)
-
-
 IBM AI Essentials Playlist
 https://www.youtube.com/watch?v=9gGnTQTYNaE&list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF
+Amazon Well Architected ML
+https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html
+
+
+
