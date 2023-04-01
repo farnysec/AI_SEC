@@ -34,5 +34,11 @@ AI General Training
 Andrew Ng (Founder of Google DeepBrain) ML and DL Training 
 https://www.deeplearning.ai/
 
+
+ML High Level Design
+=============
+![AI_Diag](https://user-images.githubusercontent.com/33955667/229309002-48361569-dfea-4dec-bc56-932e1cb8a0e2.jpg)
+
+
 IBM AI Essentials Playlist
 https://www.youtube.com/watch?v=9gGnTQTYNaE&list=PLOspHqNVtKADfxkuDuHduUkDExBpEt3DF
