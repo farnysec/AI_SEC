@@ -10,7 +10,7 @@ After you have prepared your datasets, it's time to train your model, fine tune 
 When you ML Model is matching the requirements, you can deploy it and start to monitor it.
 There should be a continous feedback between your datasets and your models for continous improvement.
 External knowledge bases and feature stores can provide extra performance.
-![AI_Diag](https://user-images.githubusercontent.com/33955667/229309002-48361569-dfea-4dec-bc56-932e1cb8a0e2.jpg)
+![AI_Diag (1)](https://user-images.githubusercontent.com/33955667/229310293-bd02f950-5dbc-49d6-8a85-c85bb85bd15c.jpg)
 
 You must analise it from the AI Adversarial, CyberSecurity, InfoSec and Data Security perspective.
 
