@@ -1,5 +1,5 @@
 # AI_SEC
-This is repo intended to help you to deal with AI Ethics and CyberSecurity.
+This repo is intended to help you to deal with AI Ethics and CyberSecurity.
 I hope you find it useful.
 First of all, please have a look at a ML High Level Design:
 
@@ -32,6 +32,10 @@ https://atlas.mitre.org/
 
 ISO 27090 - Still in development
 https://www.iso.org/standard/56581.html
+
+OWASP
+https://owasp.org/www-project-ai-security-and-privacy-guide/
+https://github.com/OWASP/www-project-ai-security-and-privacy-guide
 
 Ethics
 =============
